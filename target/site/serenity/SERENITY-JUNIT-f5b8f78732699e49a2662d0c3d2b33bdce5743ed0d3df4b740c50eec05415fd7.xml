@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Test cases for master page" skipped="0" tests="1" time="64.48" timestamp="2023-04-10 09:37:44"><testcase name="User try to login to the SRK Best homepage by entering valid username and password"><error message="Timed out after 2 seconds. Element not available&#10;Build info: version: '4.8.1', revision: '8ebccac989'&#10;System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'&#10;Driver info: driver.version: unknown&#10;Build info: version: '4.8.1', revision: '8ebccac989'&#10;System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementNotInteractableException">Timed out after 2 seconds. Element not available
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: driver.version: unknown
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: driver.version: unknown</error><system-err>Timed out after 2 seconds. Element not available
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: driver.version: unknown
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: driver.version: unknown&#13;
+ui.MasterPage.clickSave(MasterPage.java:97)&#13;
+StepDef.MasterStepDef.user_click_on_the_save_button(MasterStepDef.java:69)&#13;
+✽.User click on the save button(file:///C:/javapro/ExamJsonAutomation/src/test/resources/features/masterpage.feature:17)&#13;
+</system-err></testcase></testsuite>
